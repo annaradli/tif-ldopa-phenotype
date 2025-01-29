@@ -13,10 +13,9 @@ A corresponding GitHub repository with code used for spatial transcriptomic data
 Once published, the link to full-text paper will be available [here].
 
 *** Scripts and input files
-
-* CatWalk: [script](), input files: [1](), [2](), [3](), [4](), [5](), [6](), [7]()
-* Novel object recognition test: [script](), input files: [1](), [2]()
-* Open field test: [script](), input file: [1]()
-* Operant sensation seeking test: [script](), input file: [1]()
-* Rotarod test: [script](), input file: [1]()
-* Weight: [script](), input files: [1](), [2](), [3](), [4]()
+* CatWalk: [script](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/catwalk-selected-preludium.R), input files: [1](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/10-09-2021-AR-TIF-KOHORTA1-SESJA1_RunStatistics.xlsx), [2](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/17-12-2021%20kohorta%202%20Ania%20TIF-DAT_RunStatistics.xlsx), [3](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/2-12-2021%20kohorta%202%20TIF%20DAT%20sesja%202_RunStatistics.xlsx), [4](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/27-09-2021%20ANIA%20TIF%20KOHORTA%201_RunStatistics-ALL%20PARAMETERS.xlsx), [5](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/31-12-2021%20kohorta%202%20tif-dat%20l-dopa_RunStatistics.xlsx), [6](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/8-10-2021%20TIF-DAT%20ANIA%20kohorta%201%202021%20L-DOPA_RunStatistics.xlsx)
+* Novel object recognition test: [script](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/nor_boris_new.R), input files: [1](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/nor-objects.xlsx), [2](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/nor_boris_input.csv)
+* Open field test: [script](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/open-field-joint-new.R), input file: [1](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/open-field.csv)
+* Operant sensation seeking test: [script](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/oss-preludium-joint.R), input file: [1](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/oss-joint.csv)
+* Rotarod test: [script](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/rotarod_preludium.R), input file: [1](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/rotarod_preludium.xlsx)
+* Weight: [script](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/weight_joint_preludium-mean.R), input files: [1](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/weight_cohort1.csv), [2](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/weight_cohort1_ldopa.csv), [3](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/weight_cohort2.csv), [4](https://github.com/annaradli/tif-ldopa-phenotype/blob/main/weight_cohort2_ldopa.csv)
