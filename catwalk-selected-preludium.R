@@ -1,6 +1,15 @@
 #PRELUDIUM
 
-source("load_packages.R")
+library(tidyverse)
+library(lubridate)
+library(lemon)
+library(readxl)
+library(patchwork)
+library(ggforce)
+library(gridExtra)
+library(extrafont)
+library(RColorBrewer)
+library(rstatix)
 
 #import files
 genotypes_preludium <- read.csv("genotypes_preludium.csv", sep = ";") %>% rename(Animal = "mouse_ID")
