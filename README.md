@@ -9,7 +9,7 @@ Model organism: Mus musculus, TIF-IADATCreERT2 strain <br />
 BioProject ID: [PRJNA1080215](https://www.ncbi.nlm.nih.gov/bioproject/1080215) <br />
 Project funded by the National Science Centre in Poland: [Spatial analysis of the effects of L-DOPA on gene expression in the prefrontal cortex in a mouse model of Parkinson's disease, ID: 2020/37/N/NZ4/03672](https://projekty.ncn.gov.pl/en/index.php?projekt_id=485392) <br />
 
-A corresponding GitHub repository with code used for spatial transcriptomic data analyses can be found [here](https://github.com/annaradli/tif-ldopa-slide1).
+A corresponding GitHub repository with code used for spatial transcriptomic data analyses can be found [here]([https://github.com/annaradli/tif-ldopa-slide1](https://github.com/annaradli/tif-ldopa-spatial)).
 Once published, the link to full-text paper will be available [here].
 
 *** Scripts and input files
